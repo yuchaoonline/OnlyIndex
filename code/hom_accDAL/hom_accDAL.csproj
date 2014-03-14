@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5E3F2364-03B1-4A49-B969-B448C4E65A41}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>hom_accDAL</RootNamespace>
+    <AssemblyName>hom_accDAL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bf\accDBHelper.cs" />
+    <Compile Include="bf\DAL_Base.cs" />
+    <Compile Include="user\DAL_ArticelClass.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="user\DAL_Articel.cs" />
+    <Compile Include="user\DAL_Book.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\hom_Entity\hom_Entity.csproj">
+      <Project>{714350b7-77d8-4907-9e6e-456cccd649ff}</Project>
+      <Name>hom_Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\hom_Factory\hom_Factory.csproj">
+      <Project>{fb9075cc-91b6-488d-b8e0-12ecd9b0a49c}</Project>
+      <Name>hom_Factory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\hom_IDAL\hom_IDAL.csproj">
+      <Project>{4a62e90c-808f-4fa7-93f2-0d33a625d1b6}</Project>
+      <Name>hom_IDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\hom_IFactory\hom_IFactory.csproj">
+      <Project>{77f34a0b-64c9-41a2-a433-038ed9a72445}</Project>
+      <Name>hom_IFactory</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

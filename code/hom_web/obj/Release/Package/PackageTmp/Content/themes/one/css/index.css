@@ -1,0 +1,35 @@
+﻿body, a {
+    text-decoration: none;
+}
+
+.Center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -70px 0 0 -200px;
+    width: 400px;
+    height: 150px;
+    /*border: 1px #ccc solid;*/
+}
+
+    .Center img {
+        margin: 0 100px 0;
+    }
+
+    .Center p {
+        text-align: center;
+    }
+
+    .Center a {
+        font-family: 'Droid Serif', Georgia, serif;
+        color: #000;
+    }
+
+        .Center a:hover {
+            color: #fff;
+            background: #000;
+        }
+
+    .Center span {
+        margin: 0 10px;
+    }

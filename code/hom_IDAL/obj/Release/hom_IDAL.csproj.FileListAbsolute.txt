@@ -1,0 +1,7 @@
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_IDAL\bin\Release\hom_IDAL.dll
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_IDAL\bin\Release\hom_IDAL.pdb
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_IDAL\bin\Release\hom_Entity.dll
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_IDAL\bin\Release\hom_Entity.pdb
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_IDAL\obj\Release\hom_IDAL.csprojResolveAssemblyReference.cache
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_IDAL\obj\Release\hom_IDAL.dll
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_IDAL\obj\Release\hom_IDAL.pdb

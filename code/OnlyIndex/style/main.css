@@ -1,0 +1,84 @@
+﻿
+.headTop { width:997px; height:438px;margin:0 auto;background:url("../img/bg-top.jpg");}
+
+.companyDescipt {width:997px; height:auto;margin:10px auto 0;}
+.companyDesciptHead {background:url("../img/index2_11.jpg") no-repeat; height:47px; width:100%;}
+.companyDesciptContent {border: 1px solid #3F8DF1;height:365px;padding:10px;}
+.companyDesciptContent img {float:left; margin:10px;border:1px solid #ccc;}
+.companyDesciptContent p {width:100%; font-size:15px; text-indent:20px; line-height:25px; }
+
+.zzwyhHead{background:url("../img/index2_12.jpg") no-repeat; height:47px; width:100%;}
+.zzwyhContent {border: 1px solid #3F8DF1;height:290px;padding:10px;}
+.zzwyhContent img { float:left;margin:10px;}
+
+
+.mtbdhHead{background:url("../img/index2_14.jpg") no-repeat; height:47px; width:100%;}
+.mtbdhContent {border: 1px solid #3F8DF1;height:290px;padding:10px;}
+.mtbdhContent p { line-height:20px;}
+
+
+.jstdHead {background:url("../img/index2_19.jpg") no-repeat; height:47px; width:100%;}
+.jstdContent {border: 1px solid #3F8DF1;height:320px;padding:10px;}
+.jstdContent img{ float:left;margin:10px;}
+
+.shrqHead{background:url("../img/index2_23.jpg") no-repeat; height:47px; width:100%;}
+.shrqContent {border: 1px solid #3F8DF1;height:697px;padding:1px;}
+.shrqContent img { margin:0px;width:993px;}
+
+
+.cjwtHead{background:url("../img/index2_16.jpg") no-repeat; height:47px; width:100%;}
+.cjwtContent{border: 1px solid #3F8DF1;height:680px;padding:1px;}
+.cjwtContent ul {margin:0px; padding:0px;}
+.cjwtContent li {width:475px; height:325px; float:left;border:1px solid #ccc; margin:5px 6px 0 12px;}
+.cjwtContent p li {width:465px; height:325px; float:left;border:1px solid #ccc; margin:14px 14px 0;}
+.cjwtContent li img{float:none; border:1px solid #ccc;}
+
+.flmsHead {background:url("../img/index2_17.jpg") no-repeat; height:47px; width:100%;}
+.flmsContent {border: 1px solid #3F8DF1;height:697px;padding:1px;}
+.flmsContent img { margin:0px;width:993px;}
+
+.studentHead {background:url("../img/index2_15.jpg") no-repeat; height:47px; width:100%;}
+.studentContent {border: 1px solid #3F8DF1;height:1050px;padding:1px;}
+.studentContent ul {margin:0px; padding:0px;}
+.studentContent li {width:465px;height:325px;  float:left;margin:14px 14px 0;border:1px solid #ccc;}
+.studentContent li p{padding: 10px; width:auto;font-size:13px; text-indent:20px; line-height:23px; }
+.studentContent li img {float:left; margin:15px 15px 0 15px ;border:1px solid #ccc;}
+
+.zzzmHead{background:url("../img/index2_25.jpg") no-repeat; height:47px; width:100%;}
+.zzzmContent {border: 1px solid #3F8DF1;height:180px;padding:15px;}
+.zzzmContent img{ }
+
+.gshjHead{background:url("../img/index2_13.jpg") no-repeat; height:47px; width:100%;}
+.gshjContent {border: 1px solid #3F8DF1;height:453px;padding:1px;}
+.gshjContent img{ float:left; margin: 9px; border:1px solid #ccc; }
+
+
+.bookContent {border: 1px solid #3F8DF1;padding:1px;width:997px; height:auto;margin:10px auto 0; /*background: url("../img/bkg_gradient.gif") repeat-x;*/}
+
+.bookContent table {border-collapse:collapse;width:100%;line-height:25px; font-size:14px;}
+.bookContent table td {/*border:1px solid #ccc;*/}
+.bookContent table tr {        }
+
+.tdlbl {text-align:right;width:30%;  font-weight:bold; color:#000000}
+.tdinput {text-align:left; }
+.tdinput span {font-size:12px; margin:0 0 0 10px;color:#11902B}
+.tdinput ul {margin:0px; padding:0px;}
+.tdinput li { line-height:25px; font-size:11px; cursor:pointer;color:#ff0000;height: 25px;padding: 0 0 0 5px;}
+
+.tdinput li:hover {color:#000;}
+
+.Foot {width:997px; margin:50px auto; text-align:center}
+
+
+.listdiv { width:100%; margin:20px auto; font-size:12px;}
+.listdiv table {border-collapse:collapse;width:100%; }
+.listdiv tr { height:27px;}
+.listdiv table .trHead { background:#3F8DF1;color:#ffffff;}
+.listdiv td{border:1px solid #ccc; text-align:center;line-height:25px;}
+
+
+/*login*/
+.loginf {position: absolute; top: 50%; left: 50%; width: 340px; margin: -80px 0 0 -170px;  height: 160px;}
+.loginf table {border-collapse:collapse;width:100%;line-height:25px; font-size:14px;}
+.loginf tr { height:27px;}
+.loginf td {border:1px solid #ccc;}

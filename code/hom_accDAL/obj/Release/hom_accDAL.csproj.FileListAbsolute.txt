@@ -1,0 +1,15 @@
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_accDAL\bin\Release\hom_accDAL.dll
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_accDAL\bin\Release\hom_accDAL.pdb
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_accDAL\bin\Release\hom_Entity.dll
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_accDAL\bin\Release\hom_Factory.dll
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_accDAL\bin\Release\hom_IDAL.dll
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_accDAL\bin\Release\hom_IFactory.dll
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_accDAL\bin\Release\hom_IBLL.dll
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_accDAL\bin\Release\hom_Entity.pdb
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_accDAL\bin\Release\hom_Factory.pdb
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_accDAL\bin\Release\hom_IDAL.pdb
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_accDAL\bin\Release\hom_IFactory.pdb
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_accDAL\bin\Release\hom_IBLL.pdb
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_accDAL\obj\Release\hom_accDAL.csprojResolveAssemblyReference.cache
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_accDAL\obj\Release\hom_accDAL.dll
+E:\Study\C#\BS\hom(asp.net+sqlserver)web_blog20131229\code\hom_accDAL\obj\Release\hom_accDAL.pdb

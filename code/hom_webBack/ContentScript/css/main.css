@@ -1,0 +1,8 @@
+﻿.tbl,.tbl td {border:1px solid #ccc;}
+.tbl {width:100%; text-align:center}
+.tblHeader td,.tblHeader th {border:1px solid #ccc; background:#eee;}
+.tdLeft { text-align:right;width:210px; vertical-align:top}
+.tdRight { text-align:left;width:auto;}
+.tdRight input[type="text"],.tdRight textarea {width:95%;margin:2px;}
+
+.nav {font-family: 'Droid Serif', Georgia, serif;}
